@@ -1,0 +1,45 @@
+body
+{
+    height: 100vh;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    text-align: center;
+    background-color: rgb(206, 221, 233);
+    margin-left: 50%;
+    margin-right: 50%;
+    
+}
+
+p
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#grey
+{
+    color: gray;
+    opacity: 0.5;
+}
+
+#Gras
+{
+    font-weight: bolder;
+    font-size: 14pt;
+}
+
+img
+{
+    width: 250px;
+    border-radius: 30px;
+    
+
+}
+
+#Bulle
+{
+    border-radius: 30px;
+    background-color: white;
+    padding: 12px 12px 20px;
+
+}
